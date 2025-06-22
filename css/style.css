@@ -189,7 +189,7 @@ form input, form select  {
     justify-content: flex-start;
     text-transform: lowercase
 }
-form select {text-transform: uppercase}
+form input#send, form select {text-transform: uppercase}
 #send {
     margin: 7px;
     padding: 7px;
